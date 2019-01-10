@@ -1,2 +1,2 @@
 # Linear_Regression_Sample
-Basic linear regression
+This is a run through of a basic linear regression model.
